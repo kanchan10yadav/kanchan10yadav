@@ -1,4 +1,4 @@
-# 💫 About Me:
+                                          Kancahn yadav
 <br><br>My name is Kanchan Yadav. I am a B.Tech Computer Science Engineering student at Prasad Institute of Technology, AKTU.<br><br>Include the following details:<br><br>- 👩‍💻 B.Tech CSE Student<br>- 🌱 Currently learning Web Development, Data Structures & Algorithms.<br>- 🤖 Interested in Machine Learning.<br>- 💻 Skilled in HTML, CSS and JavaScript (beginner level).<br>- 🚀 Exploring new technologies and building practical projects.<br>- 🎯 Goal: To become a skilled software developer and continuously improve my technical skills.<br><br>Design Requirements:<br><br>1. Use professional GitHub Markdown.<br>2. Add attractive emojis and clean formatting.<br>3. Use a modern dark-themed aesthetic with turquoise accents where supported.<br>4. Make important words bold.<br>5. Keep the introduction short, unique and recruiter-friendly.<br>6. Avoid unnecessary animations and excessive emojis.<br>7. Make it compatible with GitHub Profile README.
 
 
